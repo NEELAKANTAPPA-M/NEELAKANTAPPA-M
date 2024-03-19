@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NEELAKANTAPPA-M
 - 👀 I’m interested in Embedded systems
-- 🌱 I’m currently working on Linux System Programming, C programming, STM32 MCU
+- 🌱 I’m currently working as Embedded Software Developer
 - 📫 How to reach me --> neelakantamaagi253@gmail.com
  
 <!---
